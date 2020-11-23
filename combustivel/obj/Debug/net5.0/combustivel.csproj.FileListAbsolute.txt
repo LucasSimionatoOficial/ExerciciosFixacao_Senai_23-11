@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\bin\Debug\net5.0\combustivel.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\bin\Debug\net5.0\combustivel.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\bin\Debug\net5.0\combustivel.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\bin\Debug\net5.0\combustivel.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\bin\Debug\net5.0\combustivel.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\bin\Debug\net5.0\ref\combustivel.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\bin\Debug\net5.0\combustivel.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\obj\Debug\net5.0\combustivel.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\obj\Debug\net5.0\combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\obj\Debug\net5.0\combustivel.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\obj\Debug\net5.0\combustivel.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\obj\Debug\net5.0\combustivel.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\obj\Debug\net5.0\combustivel.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\obj\Debug\net5.0\ref\combustivel.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\obj\Debug\net5.0\combustivel.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\combustivel\obj\Debug\net5.0\combustivel.genruntimeconfig.cache

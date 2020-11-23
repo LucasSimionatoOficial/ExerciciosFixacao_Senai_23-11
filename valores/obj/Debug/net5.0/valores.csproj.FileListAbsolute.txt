@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\bin\Debug\net5.0\valores.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\bin\Debug\net5.0\valores.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\bin\Debug\net5.0\valores.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\bin\Debug\net5.0\valores.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\bin\Debug\net5.0\valores.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\bin\Debug\net5.0\ref\valores.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\bin\Debug\net5.0\valores.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\obj\Debug\net5.0\valores.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\obj\Debug\net5.0\valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\obj\Debug\net5.0\valores.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\obj\Debug\net5.0\valores.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\obj\Debug\net5.0\valores.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\obj\Debug\net5.0\valores.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\obj\Debug\net5.0\ref\valores.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\obj\Debug\net5.0\valores.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\valores\obj\Debug\net5.0\valores.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\bin\Debug\net5.0\votar ou nao.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\bin\Debug\net5.0\votar ou nao.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\bin\Debug\net5.0\votar ou nao.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\bin\Debug\net5.0\votar ou nao.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\bin\Debug\net5.0\votar ou nao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\bin\Debug\net5.0\ref\votar ou nao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\bin\Debug\net5.0\votar ou nao.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\obj\Debug\net5.0\votar ou nao.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\obj\Debug\net5.0\votar ou nao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\obj\Debug\net5.0\votar ou nao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\obj\Debug\net5.0\votar ou nao.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\obj\Debug\net5.0\votar ou nao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\obj\Debug\net5.0\votar ou nao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\obj\Debug\net5.0\ref\votar ou nao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\obj\Debug\net5.0\votar ou nao.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\votar ou nao\obj\Debug\net5.0\votar ou nao.genruntimeconfig.cache

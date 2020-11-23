@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\bin\Debug\net5.0\numerosinvertidos.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\bin\Debug\net5.0\numerosinvertidos.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\bin\Debug\net5.0\numerosinvertidos.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\bin\Debug\net5.0\numerosinvertidos.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\bin\Debug\net5.0\numerosinvertidos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\bin\Debug\net5.0\ref\numerosinvertidos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\bin\Debug\net5.0\numerosinvertidos.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\obj\Debug\net5.0\numerosinvertidos.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\obj\Debug\net5.0\numerosinvertidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\obj\Debug\net5.0\numerosinvertidos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\obj\Debug\net5.0\numerosinvertidos.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\obj\Debug\net5.0\numerosinvertidos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\obj\Debug\net5.0\numerosinvertidos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\obj\Debug\net5.0\ref\numerosinvertidos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\obj\Debug\net5.0\numerosinvertidos.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosFixacao_Senai_23-11\numerosinvertidos\obj\Debug\net5.0\numerosinvertidos.genruntimeconfig.cache
